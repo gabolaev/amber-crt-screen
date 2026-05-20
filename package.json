@@ -1,0 +1,30 @@
+{
+  "name": "amber-crt",
+  "displayName": "Amber CRT",
+  "description": "VS Code theme pair inspired by 80s CRT terminals, tempad cassette futurism, and aged technical manuals. Ships a dark variant and a parchment Daylight variant with copper, chestnut, olive, and dusty teal accents.",
+  "version": "0.1.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Amber CRT",
+        "uiTheme": "vs-dark",
+        "path": "./themes/amber-crt-color-theme.json"
+      },
+      {
+        "label": "Amber CRT Daylight",
+        "uiTheme": "vs",
+        "path": "./themes/amber-crt-daylight-color-theme.json"
+      },
+      {
+        "label": "Amber CRT Phosphor",
+        "uiTheme": "hc-black",
+        "path": "./themes/amber-crt-phosphor-color-theme.json"
+      }
+    ]
+  }
+}
