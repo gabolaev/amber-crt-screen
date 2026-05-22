@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Amber CRT Daylight",
+  "name": "Amber CRT Screen Daylight",
   "type": "light",
   "semanticHighlighting": true,
   "colors": {

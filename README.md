@@ -1,8 +1,8 @@
-# Amber CRT
+# Amber CRT Screen
 
 A VS Code theme pack inspired by 80s CRT monitors and the retrofuturist amber terminals of the Time Variance Authority from Marvel's *Loki*.
 
-![Amber CRT preview](img/vscode.png)
+![Amber CRT preview](https://raw.githubusercontent.com/gabolaev/amber-crt-screen/main/img/vscode.png)
 
 Ships three variants:
 - **Amber CRT** — dark, warm near-black background with amber phosphor foreground and muted gruvbox-style accents.
@@ -20,4 +20,4 @@ Restart VS Code, then pick **Amber CRT**, **Amber CRT Daylight**, or **Amber CRT
 
 ----
 
-![tva](img/tva.png)
+![tva](https://raw.githubusercontent.com/gabolaev/amber-crt-screen/main/img/tva.png)
