@@ -1,7 +1,7 @@
 {
   "name": "amber-crt-screen",
   "displayName": "Amber CRT Screen",
-  "description": "VS Code theme pair inspired by 80s CRT terminals, tempad cassette futurism, and aged technical manuals. Ships a dark variant and a parchment Daylight variant with copper, chestnut, olive, and dusty teal accents.",
+  "description": "A retro-futurist theme pack with amber CRT, daylight parchment, and phosphor variants for old-school terminal style.",
   "icon": "img/icon.png",
   "version": "0.0.1",
   "publisher": "gabolaev",
